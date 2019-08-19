@@ -1,3 +1,5 @@
+
+
 Discussão sobre alternativas de solução que serão propostas pelo grupo:
 Bengala Sensorial, desenvolvida com arduino e sensor de proximidade (obstáculo);
 Incubadora para criação de pintinhos, com monitoramente e controle de temperatura;
@@ -22,3 +24,13 @@ https://www.fundacaodorina.org.br/wp-content/uploads/2019/04/relatorioAcessivel_
 https://www.fundacaodorina.org.br/blog/8-curiosidades-sobre-o-cao-guia/
 https://ultimosegundo.ig.com.br/mundo/nyt/2013-11-10/com-custo-de-ate-r-138-mil-treinar-caes-guia-e-desafio-para-ongs-nos-eua.html
 https://ultimosegundo.ig.com.br/mundo/nyt/2013-11-10/com-custo-de-ate-r-138-mil-treinar-caes-guia-e-desafio-para-ongs-nos-eua.html
+
+
+Funcionalidades
+emitir som quando detectado algum obstaculo 
+
+Outras possiveis:
+Pulseira que vibra na presença de obstaculos 
+Utilizar GPS para levantar dados sobre locais com maiores dificuldades de locomoção 
+Detectar obbstaculos que estejam superiores a bengala
+
