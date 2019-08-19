@@ -39,7 +39,6 @@ emitir som quando detectado algum obstaculo
 
 Outras possiveis:
 Pulseira que vibra na presença de obstaculos 
-Utilizar GPS para levantar dados sobre locais com maiores dificuldades de locomoção e pontos com obstaculos de forma que essa informação seja utilizada 
-para
-
-Detectar obbstaculos que estejam superiores a bengala
+Utilizar GPS para levantar dados de pontos com obstaculos de forma que essa informação seja utilizada para aplicativos que mapeiem e demostrem ondem esses obstaculos estão e os sobre locais com maiores dificuldades de locomoção.
+Integração com aplicativo que permite que a bengala emita comandos de localização 
+Detectar obstaculos que estejam superiores a bengala 
