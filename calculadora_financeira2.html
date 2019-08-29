@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Calculadora financeira 2</title>
+</head>
+<body>
+    <h2>Descubra agora a sua economia com nosso produto</h2>
+    Digite quantas bengalas desejas comprar <input id="numero_bengalas" autofocus><br>
+    <button onclick="calcular()">Descubra Já</button>
+    <br><br>
+    <div id="mensagem" style="display: none">
+            Tendo em vista que o preço médio de um cão guia é de <b style="color: red">$ 35.000</b>, você estaria economizando R$<b style="color: green" id="valor_poupado"></b>.
+    </div>
+</body>
+</html>
+<script>
+    function calcular()
+    {
+        var economia = numero_bengalas.value*35000 - numero_bengalas.value*150;
+        mensagem.style.display = 'block';
+        valor_poupado.innerHTML = economia;
+    }
+</script>
